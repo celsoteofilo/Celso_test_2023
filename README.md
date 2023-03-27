@@ -12,4 +12,8 @@ Test
 Para acessar click aqui : (https://github.com/celsoteofilo)
 
 
-<button>Click Aqui</button>
+<script>
+    function Evento(){
+        alert('evento funcionando')
+    }
+</script>
