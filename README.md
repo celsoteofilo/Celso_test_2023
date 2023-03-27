@@ -15,5 +15,5 @@ Para acessar click aqui : (https://github.com/celsoteofilo)
 
 
 <p align="center">
-<img src="(https://user-images.githubusercontent.com/90398200/228087989-574e0eac-7f32-4e32-9d07-42087b974baa.png")/>
+<img src="(https://user-images.githubusercontent.com/90398200/228087989-574e0eac-7f32-4e32-9d07-42087b974baa.png,https://outsmart.com.br")/>
 </p>
